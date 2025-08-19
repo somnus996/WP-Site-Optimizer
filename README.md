@@ -1,6 +1,7 @@
 # WP Site Optimizer - WordPress SEO优化插件
 
 一个功能强大的WordPress SEO优化插件，帮助提升网站性能和搜索引擎优化效果。
+官网：https://www.huociyuan.com
 
 ## 功能特性
 
